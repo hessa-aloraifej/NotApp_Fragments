@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "808627666542",
+    "project_id": "notapp-fragments",
+    "storage_bucket": "notapp-fragments.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808627666542:android:2d89858f2f3c539ab1f07f",
+        "android_client_info": {
+          "package_name": "com.example.notapp_fragments"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "808627666542-guv326der2bu9cchn58k9f3bn4kpeqf3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvt2eRdzXoOvEBQTnXmq6sPYDEpEG2UZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "808627666542-guv326der2bu9cchn58k9f3bn4kpeqf3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
